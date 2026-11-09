@@ -1,0 +1,9 @@
+# HF Deluxe Pro Manager - Requirements
+matplotlib>=3.8.0
+pandas>=2.1.0
+tkintermapview>=1.30.0
+requests>=2.31.0
+Pillow>=10.0.0
+reportlab>=4.0.0
+pytest>=8.0.0
+
